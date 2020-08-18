@@ -14,3 +14,7 @@ class Dog
     @@all << self
   end
 end
+
+pluto = Dog.new
+fido = Dog.new
+maddy = Dog.new

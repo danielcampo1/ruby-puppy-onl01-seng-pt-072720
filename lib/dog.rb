@@ -18,3 +18,6 @@ end
 pluto = Dog.new
 fido = Dog.new
 maddy = Dog.new
+pluto.name = pluto
+fido.name = fido
+  maddy.name = maddy
